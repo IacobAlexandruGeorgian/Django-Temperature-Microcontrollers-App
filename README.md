@@ -3,12 +3,12 @@
   - Utilizatorul poate vizualiza si descarca datele filtrate dupa timpul la care au fost stocate in baza de date.
     
   Prima pagina html:
-  ![image](https://user-images.githubusercontent.com/84518155/119088222-fe158b80-ba10-11eb-831e-7754969879cf.png)
-  ![image](https://user-images.githubusercontent.com/84518155/119088247-08d02080-ba11-11eb-95a9-24240d4f7de4.png)
+  ![image](https://user-images.githubusercontent.com/84518155/119233620-a1aa8d00-bb32-11eb-97b6-61ab384b1753.png)
+  ![image](https://user-images.githubusercontent.com/84518155/119233642-b850e400-bb32-11eb-8563-a82eb641b3c3.png)
   
   A doua pagina html:
-  ![image](https://user-images.githubusercontent.com/84518155/119088386-446aea80-ba11-11eb-9297-1b6928447249.png)
-  ![image](https://user-images.githubusercontent.com/84518155/119088417-5187d980-ba11-11eb-9532-9973b694c6da.png)
+  ![image](https://user-images.githubusercontent.com/84518155/119233649-c43ca600-bb32-11eb-948c-fa77b4c4eb8f.png)
+  ![image](https://user-images.githubusercontent.com/84518155/119233671-d3235880-bb32-11eb-93db-f02578b9a57b.png)
   
   - Aplicatia este in curs de dezvoltare.
   
