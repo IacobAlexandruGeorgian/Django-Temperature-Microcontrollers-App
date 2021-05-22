@@ -1,6 +1,6 @@
 # DjangoApp
   - Aceasta aplicatie web extrage masuratori dintr-o baza de date MySQL si le afiseaza, pe prima pagina, intr-un tabel, iar pe a doua pagina, prin 2 grafice.
-  - Utilizatorul poate vizualiza si descarca datele filtrate dupa timpul la care au fost stocate in baza de date
+  - Utilizatorul poate vizualiza si descarca datele filtrate dupa timpul la care au fost stocate in baza de date.
     
   Prima pagina html:
   ![image](https://user-images.githubusercontent.com/84518155/119088222-fe158b80-ba10-11eb-831e-7754969879cf.png)
