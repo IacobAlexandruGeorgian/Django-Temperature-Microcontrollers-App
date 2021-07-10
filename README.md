@@ -1,6 +1,6 @@
 # DjangoApp
   - Aceasta aplicatie web extrage masuratori dintr-o baza de date MySQL si le afiseaza, pe prima pagina, intr-un tabel, iar pe a doua pagina, prin 2 grafice.
-  - Utilizatorul poate vizualiza si descarca datele filtrate dupa timpul la care au fost stocate in baza de date.
+  - Utilizatorul poate vizualiza si descarca indicii meteorologici dupa timpul la care au fost stocate in baza de date.
     
   Prima pagina html:
   ![image](https://user-images.githubusercontent.com/84518155/119233620-a1aa8d00-bb32-11eb-97b6-61ab384b1753.png)
