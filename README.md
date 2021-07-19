@@ -8,7 +8,7 @@
   
   A doua pagina html:
   ![image](https://user-images.githubusercontent.com/84518155/119233649-c43ca600-bb32-11eb-948c-fa77b4c4eb8f.png)
-  ![image](https://user-images.githubusercontent.com/84518155/119233671-d3235880-bb32-11eb-93db-f02578b9a57b.png)
+  ![image](https://user-images.githubusercontent.com/84518155/126186327-dc429f00-f9ad-466a-99ef-a5da457e8fe6.png)
   
  
   
