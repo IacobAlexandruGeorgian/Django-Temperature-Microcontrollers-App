@@ -1,4 +1,4 @@
-# Django-Measures-App
+# Django - Temperature - App
   - This web application extracts measurements from a MySQL database and displays them, on the first page, in a table, and on the second page, through 2 graphs.
   - The user can view and download meteorological indices according to the time at which they were stored in the database.
     
@@ -10,7 +10,7 @@
   ![image](https://user-images.githubusercontent.com/84518155/119233649-c43ca600-bb32-11eb-948c-fa77b4c4eb8f.png)
   ![image](https://user-images.githubusercontent.com/84518155/126186327-dc429f00-f9ad-466a-99ef-a5da457e8fe6.png)
   
- # Meteo Station
+ # Microcontrollers - Meteo Stations
   - The project consists in the wireless transmission of encrypted data between a weather station and a base station.
   - The weather station is based on an Arduino model connected to 2 sensors and a wireless device.
   - The base station is made of a Raspberry Pi model connected to the second wireless device.
