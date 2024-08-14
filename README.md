@@ -1,4 +1,4 @@
-# Django - Temperature - App
+# Django - Weather - App
   - This web application extracts measurements from a MySQL database and displays them, on the first page, in a table, and on the second page, through 2 graphs.
   - The user can view and download meteorological indices according to the time at which they were stored in the database.
     
